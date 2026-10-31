@@ -29,6 +29,8 @@ The analysis covers both City Hotel and Resort Hotel bookings and includes basic
 
 • Matplotlib and Seaborn: data visualisation.
 
+• Scikit-learn: preprocessing, logistic regression, linear regression and model evaluation.
+
 # 4. Challenges faced
 • Large number of exact duplicate records.
 
